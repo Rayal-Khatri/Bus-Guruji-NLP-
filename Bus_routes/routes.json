@@ -1,7 +1,64 @@
-[
-{"title": "Bus Route  - Lagankhel - Tikabhairab - ", "stops": ["1 - Tika Bhairab", "2 - Lagankhel Stop", "3 - Khokana", "4 - Ekantakuna", "5 - Bungmati", "6 - ", "7 - Patan Hospital", "8 - Kumaripati", "9 - Jawalakhel Stop", "10 - "]},
-{"title": "Bus Route  - Lagankhel - lamatar - ", "stops": ["1 - Lamatar", "2 - Lagankhel Stop", "3 - Gwarko Chok", "4 - Lubhu Bus Stop", "5 - imadol stop"]},
-{"title": "Bus Route  - Lagankhel - Kalanki - ", "stops": ["1 - Khasibazaar", "2 - Sanepa Height", "3 - nakhu Stop", "4 - Satdobato", "5 - Lalitpur Industrial Estate", "6 - Batuk Bhairav", "7 - Lagankhel Stop"]},
-{"title": "Bus Route  - Kalanki- Lagankhel - ", "stops": ["1 - Lalitpur Industrial Estate", "2 - Satdobato", "3 - Sanepa Height", "4 - Khasibazaar", "5 - Lagankhel Stop"]},
-{"title": "Bus Route  - Lagankhel - Chapagaun - ", "stops": ["1 - chapagaun", "2 - Bajra Barahi Temple Stop", "3 - Tutepani", "4 - Satdobato", "5 - Lalitpur Industrial Estate", "6 - Batuk Bhairav", "7 - Lagankhel Stop"]}
-]
+{
+    "Bagmati Pradesh": {
+      "cities": {
+        "Lalitpur": {
+          "routes": [
+            {
+              "route_name": "Lagankhel - Tikabhairab",
+              "stops": [
+                { "stop_number": 1, "stop_name": "Tika Bhairab" },
+                { "stop_number": 2, "stop_name": "Champi Devi Mandir" },
+                { "stop_number": 3, "stop_name": "Bungmati" },
+                { "stop_number": 4, "stop_name": "Khokana" },
+                { "stop_number": 5, "stop_name": "Bhainsepati" },
+                { "stop_number": 6, "stop_name": "Nakkhu" },
+                { "stop_number": 7, "stop_name": "Ekantakuna" },
+                { "stop_number": 8, "stop_name": "Jawalakhel Stop" },
+                { "stop_number": 9, "stop_name": "Kumaripati" },
+                { "stop_number": 10, "stop_name": "Lagankhel Stop" }
+              ]
+            },
+            {
+              "route_name": "Lagankhel - Lamatar",
+              "stops": [
+                { "stop_number": 1, "stop_name": "Lamatar" },
+                { "stop_number": 2, "stop_name": "Lubhu Bus Stop" },
+                { "stop_number": 3, "stop_name": "Sanagau" },
+                { "stop_number": 4, "stop_name": "Imadol Stop" },
+                { "stop_number": 5, "stop_name": "Gwarko Chok" },
+                { "stop_number": 6, "stop_name": "Lagankhel Stop" }
+              ]
+            },
+            {
+              "route_name": "Lagankhel - Kalanki",
+              "stops": [
+                { "stop_number": 1, "stop_name": "Kalanki Bus Stop" },
+                { "stop_number": 2, "stop_name": "Khasibazaar" },
+                { "stop_number": 3, "stop_name": "Balkhu Bus Stop" },
+                { "stop_number": 4, "stop_name": "Sanepa Height" },
+                { "stop_number": 5, "stop_name": "Nakhu Stop" },
+                { "stop_number": 6, "stop_name": "Ekantakuna" },
+                { "stop_number": 7, "stop_name": "Satdobato" },
+                { "stop_number": 8, "stop_name": "Lalitpur Industrial Estate" },
+                { "stop_number": 9, "stop_name": "Batuk Bhairav" },
+                { "stop_number": 10, "stop_name": "Lagankhel Stop" }
+              ]
+            },
+            {
+              "route_name": "Lagankhel - Chapagaun",
+              "stops": [
+                { "stop_number": 1, "stop_name": "Chapagaun" },
+                { "stop_number": 2, "stop_name": "Bajra Barahi Temple Stop" },
+                { "stop_number": 3, "stop_name": "Tutepani" },
+                { "stop_number": 4, "stop_name": "Satdobato" },
+                { "stop_number": 5, "stop_name": "Lalitpur Industrial Estate" },
+                { "stop_number": 6, "stop_name": "Batuk Bhairav" },
+                { "stop_number": 7, "stop_name": "Lagankhel Stop" }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+  
