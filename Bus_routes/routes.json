@@ -4,6 +4,7 @@
         "Lalitpur": {
           "routes": [
             {
+              "bus_name": "Regular Bus",
               "route_name": "Lagankhel - Tikabhairab",
               "stops": [
                 { "stop_number": 1, "stop_name": "Tika Bhairab" },
@@ -19,6 +20,7 @@
               ]
             },
             {
+              "bus_name": "Regular Bus",
               "route_name": "Lagankhel - Lamatar",
               "stops": [
                 { "stop_number": 1, "stop_name": "Lamatar" },
@@ -30,6 +32,7 @@
               ]
             },
             {
+              "bus_name": "Regular Bus",
               "route_name": "Lagankhel - Kalanki",
               "stops": [
                 { "stop_number": 1, "stop_name": "Kalanki Bus Stop" },
@@ -45,6 +48,7 @@
               ]
             },
             {
+              "bus_name": "Regular Bus",
               "route_name": "Lagankhel - Chapagaun",
               "stops": [
                 { "stop_number": 1, "stop_name": "Chapagaun" },
@@ -54,6 +58,25 @@
                 { "stop_number": 5, "stop_name": "Lalitpur Industrial Estate" },
                 { "stop_number": 6, "stop_name": "Batuk Bhairav" },
                 { "stop_number": 7, "stop_name": "Lagankhel Stop" }
+              ]
+            },
+            {
+              "bus_name": "Sajha Bus",
+              "route_name": "Lagankhel - Gongabu Bus Stop",
+              "stops": [
+                { "stop_number": 1, "stop_name": "Gongabu Bus Stop" },
+                { "stop_number": 2, "stop_name": "Samakhusi" },
+                { "stop_number": 3, "stop_name": "Basundhara Stop" },
+                { "stop_number": 4, "stop_name": "Narayan Gopal Chowk" },
+                { "stop_number": 5, "stop_name": "Lazimpat" },
+                { "stop_number": 6, "stop_name": "Jamal" },
+                { "stop_number": 7, "stop_name": "RNAC Bus Stop" },
+                { "stop_number": 8, "stop_name": "Tripureshwor Bus Stopp" },
+                { "stop_number": 8, "stop_name": "Kupondole Bus Stop"},
+                { "stop_number": 8, "stop_name": "Pulchowk Bus Stop"},
+                { "stop_number": 8, "stop_name": "Jawalakhel Stop"},
+                { "stop_number": 8, "stop_name": "Kumaripati"},
+                { "stop_number": 8, "stop_name": "Lagankhel Stop"}
               ]
             }
           ]
